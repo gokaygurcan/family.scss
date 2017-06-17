@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/LukyVj/family.scss#readme",
   "devDependencies": {
-    "sassdoc": "^2.1.20"
+    "sassdoc": "^2.3.0"
   }
 }
